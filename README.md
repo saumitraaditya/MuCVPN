@@ -1,2 +1,2 @@
 # MuCVPN
-Legacy implementation of topology based on a online social network chat room.
+Legacy implementation of IPOP overlay topology based on a online social network chat room.
